@@ -3,8 +3,9 @@ body {
 }
 
 .jumbotron {
-    background-color: rgb(240, 176, 92);
+    background-color:  rgb(240, 176, 92);
     color: black;
+    opacity: 0.9;
 }
 
 .container {
