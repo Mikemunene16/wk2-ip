@@ -1,3 +1,8 @@
 body {
     background-image: url("https://thumbs.dreamstime.com/z/grunge-background-african-patterns-26629599.jpg");
 }
+
+.jumbotron {
+    background-color: rgb(240, 176, 92);
+    color: black;
+}
