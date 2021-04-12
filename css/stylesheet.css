@@ -1,6 +1,5 @@
-body {
-    background-image: url("https://thumbs.dreamstime.com/z/grunge-background-african-patterns-26629599.jpg");
-}
+
+
 
 .jumbotron {
     background-color:  rgb(240, 176, 92);
@@ -9,8 +8,8 @@ body {
 }
 
 .container {
-    padding: 50px;
-    margin: 30px;
+    padding: 200px;
+    margin: 40px;
 }
 
 h1 {
