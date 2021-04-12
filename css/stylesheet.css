@@ -6,3 +6,8 @@ body {
     background-color: rgb(240, 176, 92);
     color: black;
 }
+
+.container {
+    padding: 50px;
+    margin: 30px;
+}
