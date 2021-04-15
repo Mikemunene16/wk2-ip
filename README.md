@@ -3,8 +3,9 @@
 #### By **{Mike Munene}**
 ## Description
 {It's an application that takes a user's birthday and calculates the day of the week they were born and then depending on their gender outputs their Akan Name.}
-## Behaviour Driven Development
-
+## Behaviour Driven Development (B.D.D)
+{1.Displays a form whereby the user is required to fill.}
+{2.Displays an error message if you press the submit button without filling in the fields in the form.}
 
 ## Setup/Installation Requirements
 * {git clone https://github.com/Mikemunene16/wk2-ip.git}
