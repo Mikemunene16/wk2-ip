@@ -17,3 +17,7 @@ h1 {
     text-decoration: underline;
     
 }
+
+.overlay {
+    opacity: 0.9;
+}
